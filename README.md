@@ -59,4 +59,6 @@ After looking at both the correlation and the coefficents of the linear model it
 
 6. Deployment
 
-All these findings will be available as a Medium article.
+All these findings are presented on my blogpost at Medium:
+
+https://michelbaumann.medium.com/what-makes-a-country-happy-53c0ef7d586a
