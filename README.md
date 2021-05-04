@@ -6,7 +6,7 @@ https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 We want to answer three questions:
 1. Which country and which region is the happiest / least happy in 2021?
 2. Which countries have changed the most in the last 15 years?
-3: Which factors have the most impact for the happiness of a country?
+3. Which factors have the most impact for the happiness of a country?
 
 The following libraries are used:
 Pandas
